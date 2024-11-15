@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.couples{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.face{
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+
+}
+.faceCont{
+    margin: 20px;
+    overflow: hidden;
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+}
+#button{
+     background-color: red;
+     color: white;
+     width: 148px;
+     height: 43px;
+     font-size: 20px;
+     border-radius: 8px;
+     border: none;
+}
+#button:hover{
+    opacity: 0.7;
+}
