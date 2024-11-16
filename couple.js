@@ -34,7 +34,7 @@ var male = [
   "https://i.ibb.co/rw89shL/Screenshot-2024-11-01-20-31-04-826-com-whatsapp-edit.jpg",
   "https://i.imgur.com/7jemc1C.jpg",
   "https://i.ibb.co/N9tK2Qj/Screenshot-2024-11-04-19-40-49-985-com-google-android-apps-photos-edit.jpg",
-  "https://i.imgur.com/PISafrh.jpg",
+  
   "https://i.imgur.com/6fggyRZ.jpg",
   "https://i.ibb.co/RjfL41D/IMG-20241104-WA0030.jpg",
   "https://i.ibb.co/bJjnDb4/Christo.jpg",
@@ -45,13 +45,6 @@ function showCouple() {
   var femaleImg = Math.floor(Math.random() * female.length);
   var maleImg = Math.floor(Math.random() * male.length);
   console.log(femaleImg,maleImg);
-  if(femaleImg == 7){
-    
-    maleImg = 23;
-  }
-  if(maleImg == 23){
-    femaleImg = 7;
-  }
   const cont = document.getElementById("cup");
   cont.replaceChildren();
   const imgMale = document.createElement("img");
