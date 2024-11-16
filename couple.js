@@ -44,7 +44,7 @@ var male = [
 function showCouple() {
   var femaleImg = Math.floor(Math.random() * female.length);
   var maleImg = Math.floor(Math.random() * male.length);
-  console.log(femaleImg,maleImg);
+  alert(femaleImg,maleImg);
   const cont = document.getElementById("cup");
   cont.replaceChildren();
   const imgMale = document.createElement("img");
