@@ -6,7 +6,7 @@ var female = [
   "https://i.imgur.com/lMdXBoj.jpg",
   "https://i.imgur.com/3SKHBgX.jpg",
   "https://i.imgur.com/NYMPIHr.jpg",
-  
+  "https://i.imgur.com/q0QNph2.jpg"'
   "https://i.imgur.com/aez9IYU.jpg",
   "https://i.imgur.com/TvgbWZh.jpg",
 ];
@@ -34,7 +34,7 @@ var male = [
   "https://i.ibb.co/rw89shL/Screenshot-2024-11-01-20-31-04-826-com-whatsapp-edit.jpg",
   "https://i.imgur.com/7jemc1C.jpg",
   "https://i.ibb.co/N9tK2Qj/Screenshot-2024-11-04-19-40-49-985-com-google-android-apps-photos-edit.jpg",
-  
+  "https://i.imgur.com/PISafrh.jpg",
   "https://i.imgur.com/6fggyRZ.jpg",
   "https://i.ibb.co/RjfL41D/IMG-20241104-WA0030.jpg",
   "https://i.ibb.co/bJjnDb4/Christo.jpg",
