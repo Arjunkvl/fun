@@ -6,7 +6,7 @@ var female = [
   "https://i.imgur.com/lMdXBoj.jpg",
   "https://i.imgur.com/3SKHBgX.jpg",
   "https://i.imgur.com/NYMPIHr.jpg",
-  "https://i.imgur.com/q0QNph2.jpg",
+  
   "https://i.imgur.com/aez9IYU.jpg",
   "https://i.imgur.com/TvgbWZh.jpg",
 ];
