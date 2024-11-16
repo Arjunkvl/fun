@@ -6,7 +6,7 @@ var female = [
   "https://i.imgur.com/lMdXBoj.jpg",
   "https://i.imgur.com/3SKHBgX.jpg",
   "https://i.imgur.com/NYMPIHr.jpg",
-  
+  "https://i.imgur.com/q0QNph2.jpg",
   "https://i.imgur.com/aez9IYU.jpg",
   "https://i.imgur.com/TvgbWZh.jpg",
 ];
@@ -45,13 +45,6 @@ function showCouple() {
   var femaleImg = Math.floor(Math.random() * female.length);
   var maleImg = Math.floor(Math.random() * male.length);
   console.log(femaleImg,maleImg);
-  if(femaleImg == 7){
-    
-    maleImg = 23;
-  }
-  if(maleImg == 23){
-    femaleImg = 7;
-  }
   const cont = document.getElementById("cup");
   cont.replaceChildren();
   const imgMale = document.createElement("img");
